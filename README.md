@@ -1,6 +1,6 @@
 # single_cycle_cpu
 RISCV edition
-R type 
+R type \n
 I type //load, jalr
 S type //store
 J type //jal
