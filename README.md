@@ -1,8 +1,13 @@
 # single_cycle_cpu
-RISCV edition           
-R type               
-I type //load, jalr              
-S type //store            
-J type //jal              
-4 kinds of instructions
+the instruction we use: RISCV edition<br>           
+I have done: <br>
+>R type<br>I type //load, jalr,addi,ori and so on<br>
+S type //store<br>
+J type //jal<br>
+4 kinds of instructions<br>
+
+
+## Update changing single cycle cpu to pipeline
+Have done forward uniting but `Hazard unit` and `branch prediction` aren't implement<br>
+
 
